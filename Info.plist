@@ -15,8 +15,8 @@ com/DTDs/PropertyList-1.0.dtd">
         <string>APPL</string>
         <key>CFBundleSignature</key>
         <string>WvTx</string>
-        <key>NSMainXibFile</key>
-        <string>GRBLr</string>
+        <key>NSMainNibFile</key>
+        <string>GRBLr.nib</string>
         <key>NSPrincipalClass</key>
         <string>NSApplication</string>
 </dict>
